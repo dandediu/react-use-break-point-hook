@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+  text-align: center;
+
+}
+
+.app-emoji {
+  font-size: 2rem;
+  margin: 1rem;
+}
+
+.app-text {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+.app-breakpoint {
+  margin: 1rem;
+  font-size: 1.5rem;
+  color: royalblue;
+}
